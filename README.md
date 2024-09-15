@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Kumbhar</h1>
-<h3 align="center">TY BTech CSBS at MITWPU, exploring fields of full stack development, ML, cyber security</h3>
+<h3 align="center">Third year UnderGrad trying to learn and gain experience in all he can</h3>
 
 - 🔭 I’m currently working on *IDS(Cyber security), Full stack Website*
 
